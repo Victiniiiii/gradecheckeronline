@@ -1,6 +1,6 @@
 import requests
 
-PUSHBULLET_API_KEY = "Please enter your api key here: "
+PUSHBULLET_API_KEY = input("Please enter your api key here: ")
 
 response = requests.get(
     'https://api.pushbullet.com/v2/devices',
