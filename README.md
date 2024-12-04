@@ -1,2 +1,2 @@
-# gradecheckeronline
-checks if your grades have changed
+# gradechecker
+Couple versions of a script which can detect grade changes.
